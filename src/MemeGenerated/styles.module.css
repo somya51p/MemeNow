@@ -1,0 +1,15 @@
+.header {
+  margin-top: 55px;
+}
+.copy {
+  background-color: mediumseagreen;
+  margin-top: 10px;
+}
+.btn {
+  background-color: skyblue;
+  color: midnightblue;
+}
+.icons {
+  position: relative;
+  /* display: inline-block; */
+}
